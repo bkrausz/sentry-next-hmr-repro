@@ -1,0 +1,17 @@
+.next/
+build/
+out/
+.next/
+node_modules/
+.env.local
+.env.*.local
+analyze/
+
+# Sentry
+.sentryclirc
+
+# Sentry
+next.config.original.js
+
+# Typescript
+tsconfig.tsbuildinfo
